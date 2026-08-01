@@ -3,7 +3,7 @@
 ## 🚀 A Production-Quality Desktop Application for Downloading AI Models
 
 **Version:** 1.0.0
-**Author:** HF Download Manager
+**Author:** Shashin Somanayake
 **License:** MIT
 
 ---
